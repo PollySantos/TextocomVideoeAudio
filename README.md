@@ -1,4 +1,4 @@
-## tEXTO COM VIDEO E MÚSICA 🖩
+## TEXTO COM VIDEO E MÚSICA 🖩
 
 ### E finalmente acabei meu desafio de 30 dias de html, css e js, com esse mini projeto maravilhoso.
 
@@ -22,5 +22,4 @@ O que aprendi:
 - ONCLICK
 
 ## Link do site:
-https://pollysantos.github.io/TextocomVideo_Audio
-/
+https://pollysantos.github.io/TextocomVideo_Audio/
